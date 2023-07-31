@@ -24,4 +24,7 @@ Necesito tres, ***asteriscos para que esté en negrita y cursiva a la vez.***
 
 ![](imagenes/monster.png)
 
-![Película Favorita](imagenes/INC.jpg){width="1500"}
+![Película Favorita](imagenes/INC.jpg)
+
+La página web de New Dimensions es <https://newdimensions.academy/>\
+También puedes ingresar haciendo click [aquí](https://newdimensions.academy/).
