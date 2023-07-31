@@ -27,4 +27,10 @@ Necesito tres, ***asteriscos para que esté en negrita y cursiva a la vez.***
 ![Película Favorita](imagenes/INC.jpg)
 
 La página web de New Dimensions es <https://newdimensions.academy/>\
-También puedes ingresar haciendo click [aquí](https://newdimensions.academy/).
+También puedes ingresar haciendo clic [aquí](https://newdimensions.academy/).
+
+# Título
+
+## Subtítulo 1
+
+### Subtítulo 2
